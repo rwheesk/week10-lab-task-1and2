@@ -1,0 +1,34 @@
+div.div-1{
+    height: 300px;
+    width: 100%;
+    background-color: grey;
+}
+
+div.div-2{
+    height: 300px;
+    width: 100%;
+    background-image: url("images/maple-leaf.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.div-3{
+    height: 300px;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    top: 600px;
+    background-image: url("images/startline.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.div-4{
+    height: 300px;
+    width: 100%;   
+    position: absolute;
+    left: 0px;
+    top: 600px;
+    background-color: red;
+    opacity: .3;
+}

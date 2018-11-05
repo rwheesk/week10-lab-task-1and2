@@ -1,0 +1,23 @@
+h1{
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Georgia;
+}
+
+h3{
+    font-size: 18px;
+    color: blue;
+    font-family: Georgia;
+}
+
+p.para-1{
+    font-size: 16px;
+    font-family: Georgia;
+    text-align: center;
+
+}
+
+p.para-2{
+    color: #4ee2a4;
+    text-align: left;
+}
